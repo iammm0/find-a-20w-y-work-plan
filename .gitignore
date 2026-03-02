@@ -5,11 +5,13 @@ msg3.txt
 msg4.txt
 msg5.txt
 msg6.txt
-msg-c1.txt
-msg-c2.txt
-msg-c3.txt
-msg-c4.txt
-msg-c5.txt
 msg-readme.txt
 commit-messages.txt
-commit-messages-update.txt
+msg-a.txt
+msg-b.txt
+msg-c.txt
+msg-d.txt
+msg-e.txt
+
+# IDE
+.idea/
